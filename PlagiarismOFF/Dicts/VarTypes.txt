@@ -1,0 +1,45 @@
+﻿signed long long int
+unsigned long long int
+signed short int
+unsigned short int
+signed long int
+unsigned long int
+long long int
+signed long long
+unsigned long long
+signed char
+unsigned char
+short int
+signed short
+unsigned short
+signed int
+unsigned int
+long int
+signed long
+unsigned long
+long long
+long double
+auto
+bool
+boolean
+byte
+sbyte
+char
+wchar_t
+char16_t
+char32_t
+short
+ushort
+int
+uint
+signed
+unsigned
+long
+ulong
+float
+double
+decimal
+var
+void
+string
+object
